@@ -21,7 +21,7 @@ public class Phone extends Device{
 
     @Override
     public String toString() {
-        return "Phone{} " +
+        return "Phone{ " +
                 "brand='" + getBrand() + '\'' +
                 ", model='" + getModel() + '\'' +
                 ", price=" + getPrice() +

@@ -30,11 +30,11 @@ public class Bear extends WildAnimal{
                 "name='" + getName() + '\'' +
                 ", breed='" + getBreed() + '\'' +
                 ", gender=" + getGender() +
-                ", age=" + getAge() +
+                ", age=" + getAge() + '\'' +
                 ", size='" + getSize() + '\'' +
                 ", color='" + getColor() + '\'' +
-                "isWild=" + isWild() +
-                ", isFriendly=" + isFriendly() +
+                "isWild=" + isWild() + '\'' +
+                ", isFriendly=" + isFriendly() + '\'' +
                 ", isPlayable=" + isPlayable() +
                 '}';
     }
