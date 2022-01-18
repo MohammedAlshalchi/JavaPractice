@@ -17,7 +17,6 @@ public class WildAnimal extends Animal{
     public void setSound(String sound) {
         this.sound = sound;
     }
-
     private boolean isWild, isFriendly, isPlayable;
 
     public boolean isWild() {

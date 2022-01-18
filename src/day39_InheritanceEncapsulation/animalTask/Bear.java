@@ -15,7 +15,7 @@ public class Bear extends WildAnimal{
     @Override
     public void eat() {
 //        super.eat();
-        System.out.println(getAge()+" is eating honey");
+        System.out.println(getName()+" is eating honey");
     }
 
     @Override

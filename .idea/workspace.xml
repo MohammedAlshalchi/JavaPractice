@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 3">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Zoo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/deviceTask/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/deviceTask/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/StudentObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/StudentObjects.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" afterDir="false" />
     </list>
@@ -148,7 +143,7 @@
       <workItem from="1642517762650" duration="434000" />
       <workItem from="1642518219602" duration="12000" />
       <workItem from="1642520068476" duration="76000" />
-      <workItem from="1642544831761" duration="1792000" />
+      <workItem from="1642544831761" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -178,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642545741716</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 4">
+      <created>1642546805790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642546805790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +203,8 @@
     <MESSAGE value="1 commit" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
