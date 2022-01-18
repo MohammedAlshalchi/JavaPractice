@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="1 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Zoo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,30 +44,21 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user2\IdeaProjects\JavaPractice\src" />
+      <recent name="C:\Users\user2\IdeaProjects\JavaPractice" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentObjects">
-    <configuration name="AgeGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day11_SwitchAndIf.AgeGroup" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day11_SwitchAndIf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zoo (1)">
     <configuration name="MyDevices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_InheritanceEncapsulation.deviceTask.MyDevices" />
+      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.MyDevices" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_InheritanceEncapsulation.deviceTask.*" />
+          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +67,11 @@
       </method>
     </configuration>
     <configuration name="StateObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_InheritanceEncapsulation.stateTask.StateObjects" />
+      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.stateTask.StateObjects" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_InheritanceEncapsulation.stateTask.*" />
+          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.stateTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +80,11 @@
       </method>
     </configuration>
     <configuration name="StudentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_InheritanceEncapsulation.studentTask.StudentObjects" />
+      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.studentTask.StudentObjects" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_InheritanceEncapsulation.studentTask.*" />
+          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.studentTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Zoo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day39_InheritanceEncapsulation.animalTask.Zoo" />
       <module name="JavaPractice" />
       <extension name="coverage">
@@ -109,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.animalTask.Zoo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.animalTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo (1)" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.StateObjects" />
         <item itemvalue="Application.MyDevices" />
         <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.AgeGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +141,10 @@
       <workItem from="1642434026964" duration="1604000" />
       <workItem from="1642436104909" duration="3850000" />
       <workItem from="1642440597873" duration="24993000" />
+      <workItem from="1642517762650" duration="434000" />
+      <workItem from="1642518219602" duration="12000" />
+      <workItem from="1642520068476" duration="76000" />
+      <workItem from="1642544831761" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -140,13 +153,33 @@
       <option name="project" value="LOCAL" />
       <updated>1642473887858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 commit">
+      <created>1642518183074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642518183074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="1 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>

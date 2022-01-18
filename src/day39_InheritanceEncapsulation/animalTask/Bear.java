@@ -26,7 +26,7 @@ public class Bear extends WildAnimal{
 
     @Override
     public String toString() {
-        return "Bear{}"+
+        return "Bear{"+
                 "name='" + getName() + '\'' +
                 ", breed='" + getBreed() + '\'' +
                 ", gender=" + getGender() +

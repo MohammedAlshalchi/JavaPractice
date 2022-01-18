@@ -14,7 +14,7 @@ public class Zoo {
     Dog dog1 = new Dog("Pug","Small","Black",'F',2,false,true,true);
     Dolphin dolphin2 = new Dolphin("vvv","KLG","gray",'M',50,true,true,true);
 Tiger tiger1 =new Tiger("zzz","xSMALL","yellow",'M',25,true,false,false);
-
+Bear bear = new Bear("MOHAMMED","AA","xl","Blackl",'M',20,true,false,false);
         System.out.println(lion1);
         System.out.println(dog1);
         System.out.println(dolphin2);
@@ -31,10 +31,10 @@ Tiger tiger1 =new Tiger("zzz","xSMALL","yellow",'M',25,true,false,false);
 dog1.play();
 dolphin2.swim();
 lion1.hunt();
+        System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+        System.out.println(bear.getName());
 
-
-
-
+        System.out.println(bear);
 
 
 

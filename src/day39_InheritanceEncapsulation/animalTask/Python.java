@@ -31,4 +31,5 @@ public class Python extends WildAnimal{
                 ", isPlayable=" + isPlayable() +
                 '}';
     }
+
 }
