@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="1 commit">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Zoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/deviceTask/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/deviceTask/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/StudentObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/studentTask/StudentObjects.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Python.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +148,7 @@
       <workItem from="1642517762650" duration="434000" />
       <workItem from="1642518219602" duration="12000" />
       <workItem from="1642520068476" duration="76000" />
-      <workItem from="1642544831761" duration="634000" />
+      <workItem from="1642544831761" duration="1792000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -160,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642518183074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2">
+      <created>1642545488337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642545488337</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit 3">
+      <created>1642545741716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642545741716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +199,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
+    <MESSAGE value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

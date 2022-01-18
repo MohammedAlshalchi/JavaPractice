@@ -35,7 +35,8 @@ public class Bear extends WildAnimal{
                 ", color='" + getColor() + '\'' +
                 "isWild=" + isWild() + '\'' +
                 ", isFriendly=" + isFriendly() + '\'' +
-                ", isPlayable=" + isPlayable() +
+                ", isPlayable=" + isPlayable() +'\'' +
+                " , sound = "+getSound()+'\'' +
                 '}';
     }
 }

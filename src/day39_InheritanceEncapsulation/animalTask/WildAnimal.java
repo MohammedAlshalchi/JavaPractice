@@ -8,6 +8,16 @@ public class WildAnimal extends Animal{
 				Extra Methods:
 					hunt()
      */
+    private String sound = "raro";
+
+    public String getSound() {
+        return sound;
+    }
+
+    public void setSound(String sound) {
+        this.sound = sound;
+    }
+
     private boolean isWild, isFriendly, isPlayable;
 
     public boolean isWild() {
