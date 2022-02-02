@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 4">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 5">
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/ShapeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/WildAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/WildAnimal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="208eGLRoyW265K3bAlfU1OVbWSE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -51,13 +59,26 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zoo (1)">
+  <component name="RunManager" selected="Application.ShapeObject">
     <configuration name="MyDevices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.MyDevices" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_abstraction.shapTask.ShapeObject" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_abstraction.shapTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.animalTask.Zoo" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.animalTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.Zoo (1)" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.StateObjects" />
         <item itemvalue="Application.MyDevices" />
-        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +151,10 @@
       <workItem from="1642517762650" duration="434000" />
       <workItem from="1642518219602" duration="12000" />
       <workItem from="1642520068476" duration="76000" />
-      <workItem from="1642544831761" duration="2865000" />
+      <workItem from="1642544831761" duration="3820000" />
+      <workItem from="1642605001921" duration="15000" />
+      <workItem from="1643839701331" duration="40000" />
+      <workItem from="1643839825717" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -180,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642546805790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit 5">
+      <created>1642547723567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642547723567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +222,8 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

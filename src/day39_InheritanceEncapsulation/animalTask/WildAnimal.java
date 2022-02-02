@@ -8,7 +8,7 @@ public class WildAnimal extends Animal{
 				Extra Methods:
 					hunt()
      */
-    private String sound = "raro";
+    private String sound = "raro";// extra by Tunc cousine
 
     public String getSound() {
         return sound;
