@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 5">
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/ShapeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/shapTask/Square.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 1">
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/AnimalObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_abstraction/animalTask/Tiger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/Bear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/WildAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/day39_InheritanceEncapsulation/animalTask/WildAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_InheritanceEncapsulation/animalTask/WildAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +57,13 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeObject">
-    <configuration name="MyDevices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.MyDevices" />
+  <component name="RunManager" selected="Application.AnimalObject">
+    <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_abstraction.animalTask.AnimalObject" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.deviceTask.*" />
+          <option name="PATTERN" value="day43_abstraction.animalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.Zoo (1)" />
         <item itemvalue="Application.StudentObjects" />
         <item itemvalue="Application.StateObjects" />
-        <item itemvalue="Application.MyDevices" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +152,7 @@
       <workItem from="1642544831761" duration="3820000" />
       <workItem from="1642605001921" duration="15000" />
       <workItem from="1643839701331" duration="40000" />
-      <workItem from="1643839825717" duration="4470000" />
+      <workItem from="1643839825717" duration="6686000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -198,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642547723567</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit 1">
+      <created>1643844405752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643844405752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +228,8 @@
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+    <MESSAGE value="commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
