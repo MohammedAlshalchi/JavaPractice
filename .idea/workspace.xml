@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 2">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 4">
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/AutoPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/AutoPilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/CydeoCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Mercedes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Nio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carTask/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/AndroidApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/AppleApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/DeviceShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Downloadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Google.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/PersonalComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/deviceTask/Samaung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +78,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalObject">
+  <component name="RunManager" selected="Application.DeviceShop">
     <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day43_abstraction.animalTask.AnimalObject" />
       <module name="JavaPractice" />
@@ -65,38 +92,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44Abstract2.carTask.CarShop" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day44Abstract2.carTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44Abstract2.deviceTask.DeviceShop" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day44Abstract2.deviceTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShapeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day43_abstraction.shapTask.ShapeObject" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day43_abstraction.shapTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StateObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.stateTask.StateObjects" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.stateTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_StaticBlock.day39_InheritanceEncapsulation.studentTask.StudentObjects" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day34_StaticBlock.day39_InheritanceEncapsulation.studentTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeviceShop" />
+        <item itemvalue="Application.CarShop" />
         <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.Zoo (1)" />
-        <item itemvalue="Application.StudentObjects" />
-        <item itemvalue="Application.StateObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +175,8 @@
       <workItem from="1643839701331" duration="40000" />
       <workItem from="1643839825717" duration="6719000" />
       <workItem from="1643900770802" duration="16000" />
+      <workItem from="1644276467361" duration="13751000" />
+      <workItem from="1644291743059" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -205,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643850092638</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit 3">
+      <created>1644276489376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644276489376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 4">
+      <created>1644276598138</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644276598138</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,12 +269,12 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="1 commit" />
-    <MESSAGE value="commit 3" />
-    <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
