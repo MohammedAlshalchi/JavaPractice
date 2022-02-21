@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 5">
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/EmployeePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/DriverObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/EdgeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/FireFoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/JavaScriptExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/OperaDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/RemoteWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/SafariDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/SearchContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/TakeScreenShot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/browserTask/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44Abstract2/carRecallHighestLowest/Recall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jjj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jjj1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jjj2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jjj3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jjj4.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jjj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fin_Ra_FinRa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jjj1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jjj2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisionWithout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +55,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeePolymorphism">
+  <component name="RunManager" selected="Application.Fin_Ra_FinRa">
     <configuration name="DriverObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day44Abstract2.browserTask.DriverObjects" />
       <module name="JavaPractice" />
@@ -104,15 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jjj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jjj" />
+    <configuration name="Fin_Ra_FinRa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fin_Ra_FinRa" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jjj1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jjj1" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEven" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fin_Ra_FinRa" />
+        <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.EmployeePolymorphism" />
         <item itemvalue="Application.DriverObjects" />
-        <item itemvalue="Application.jjj" />
         <item itemvalue="Application.FINRA" />
-        <item itemvalue="Application.jjj1" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +154,10 @@
       <workItem from="1644874039835" duration="1123000" />
       <workItem from="1644881542816" duration="2193000" />
       <workItem from="1644885615343" duration="1108000" />
+      <workItem from="1644898988606" duration="20000" />
+      <workItem from="1645025302635" duration="1815000" />
+      <workItem from="1645042903165" duration="54000" />
+      <workItem from="1645210382736" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -247,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644337094947</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit 4">
+      <created>1644898997529</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644898997529</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,9 +267,9 @@
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
-    <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

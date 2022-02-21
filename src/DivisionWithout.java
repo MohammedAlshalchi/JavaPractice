@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class jjj2 {
+public class DivisionWithout {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

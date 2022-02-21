@@ -1,17 +1,17 @@
-public class jjj1 {
+public class OddEven {
     /*
 
      */
 
 
     public static void main(String[] args) {
-        INDENTFY(-20);
+        oddEven(20);
     }
 
 
 
 
-public static void INDENTFY (int num){
+public static void oddEven (int num){
 
   if (num <= 0) {
       System.out.println("Invalid number");

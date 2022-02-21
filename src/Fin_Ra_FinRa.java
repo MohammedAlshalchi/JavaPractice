@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class jjj {
+public class Fin_Ra_FinRa {
 
 
 
@@ -15,14 +15,14 @@ print "RA" instead of the number. for numbers which are a multiple of both 3 an
  */
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
 
-        int num1 = input.nextInt();
-        int num2 = input.nextInt();
+        //  Scanner input = new Scanner(System.in);
+       // int num1 = input.nextInt();
+       // int num2 = input.nextInt();
+        // FINRA(num1,num2);
 
-        FINRA(num1,num2);
 
-        //FINRA(1,30);
+        FINRA(1,30);
     }
 
 
