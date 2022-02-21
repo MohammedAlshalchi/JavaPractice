@@ -12,7 +12,7 @@ public class FactorialNumber {
         int num =input.nextInt();
 int Facturial =1;
         for (int i = num; i >=1 ; i--) {
-         Facturial =num*num;
+         Facturial = num*num;
 
 
         }

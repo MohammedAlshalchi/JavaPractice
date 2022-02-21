@@ -29,7 +29,7 @@ public class Numbers1ToN {
         System.out.println("Enter num");
         int num = input.nextInt();
 
-        String result15 ="", // we can not use int because we want the NO not adding
+        String result15 ="", // we can not use int because we want the NO. not adding
                 result5 ="",
                 result3 ="";
 
