@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jjj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fin_Ra_FinRa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jjj1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jjj2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisionWithout.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit 5">
+      <change afterPath="$PROJECT_DIR$/src/SwapNumbersWithoutThird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_Method/SwapTask.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fin_Ra_FinRa">
+  <component name="RunManager" selected="Application.SwapNumbersWithoutThird">
     <configuration name="DriverObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day44Abstract2.browserTask.DriverObjects" />
       <module name="JavaPractice" />
@@ -82,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FINRA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FINRA" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Fin_Ra_FinRa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fin_Ra_FinRa" />
       <module name="JavaPractice" />
@@ -103,13 +94,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNumbersWithoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapNumbersWithoutThird" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumbersWithoutThird" />
         <item itemvalue="Application.Fin_Ra_FinRa" />
         <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.EmployeePolymorphism" />
         <item itemvalue="Application.DriverObjects" />
-        <item itemvalue="Application.FINRA" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +156,7 @@
       <workItem from="1645025302635" duration="1815000" />
       <workItem from="1645042903165" duration="54000" />
       <workItem from="1645210382736" duration="268000" />
+      <workItem from="1645451467096" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -243,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644898997529</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit 5">
+      <created>1645451543124</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645451543124</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,9 +273,9 @@
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
-    <MESSAGE value="commit 5" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
