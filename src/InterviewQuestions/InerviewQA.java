@@ -1,3 +1,5 @@
+package InterviewQuestions;
+
 public class InerviewQA {
     public static void main(String[] args) {
 

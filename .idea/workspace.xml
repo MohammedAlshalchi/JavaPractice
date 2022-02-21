@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="Swap two numbers">
-      <change afterPath="$PROJECT_DIR$/src/DivisibleByFiveThreeFifteen.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="dIVISIBLE BY 3, 5, 15">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/printConsecutiveNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/SwapNumbersWithoutThird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/SwapNumbersWithoutThird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day15/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day15/FactorialNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day17_ForLoop/Numbers1ToN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_ForLoop/Numbers1ToN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivisibleByFiveThreeFifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/DivisibleByFiveThreeFifteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivisionWithout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/DivisionWithout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fin_Ra_FinRa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Fin_Ra_FinRa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InerviewQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/InerviewQA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwapNumbersWithoutThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SwapNumbersWithoutThird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jjj3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/jjj3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jjj4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/jjj4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
   </component>
   <component name="RunManager" selected="Application.DivisibleByFiveThreeFifteen">
     <configuration name="DivisibleByFiveThreeFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivisibleByFiveThreeFifteen" />
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DivisibleByFiveThreeFifteen" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,7 +109,7 @@
       </method>
     </configuration>
     <configuration name="SwapNumbersWithoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapNumbersWithoutThird" />
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SwapNumbersWithoutThird" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,7 +170,7 @@
       <workItem from="1645025302635" duration="1815000" />
       <workItem from="1645042903165" duration="54000" />
       <workItem from="1645210382736" duration="268000" />
-      <workItem from="1645451467096" duration="3077000" />
+      <workItem from="1645451467096" duration="4870000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -265,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645452382816</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="dIVISIBLE BY 3, 5, 15">
+      <created>1645454658210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645454658210</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +304,8 @@
     <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
     <MESSAGE value="Swap two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swap two numbers" />
+    <MESSAGE value="dIVISIBLE BY 3, 5, 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="dIVISIBLE BY 3, 5, 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,3 +1,5 @@
+package InterviewQuestions;
+
 import java.util.Scanner;
 
 public class Fin_Ra_FinRa {

@@ -1,3 +1,5 @@
+package InterviewQuestions;
+
 public class jjj3 {
 /*
 Given a list of integers 1,2,3,4,5,6,7 etc. remove all values greater than 100
