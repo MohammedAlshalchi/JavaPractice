@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="new">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="print Consecutive Numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/DivisibleByFiveThreeFifteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/DivisionWithout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Fin_Ra_FinRa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/OddEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/SwapNumbersWithoutThird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/jjj3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/jjj4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/printConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/printConsecutiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InerviewQA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/SwapNumbersWithoutThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SwapNumbersWithoutThird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +54,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.printConsecutiveNumbers">
+  <component name="RunManager" selected="Application.SwapNumbersWithoutThird">
     <configuration name="DivisibleByFiveThreeFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DivisibleByFiveThreeFifteen" />
       <module name="JavaPractice" />
@@ -94,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.SumEvenNumber" />
+    <configuration name="SwapNumbersWithoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SwapNumbersWithoutThird" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumbersWithoutThird" />
         <item itemvalue="Application.printConsecutiveNumbers" />
         <item itemvalue="Application.DivisibleByFiveThreeFifteen" />
         <item itemvalue="Application.Numbers1ToN" />
         <item itemvalue="Application.PositiveNegative" />
-        <item itemvalue="Application.SumEvenNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +169,8 @@
       <workItem from="1645025302635" duration="1815000" />
       <workItem from="1645042903165" duration="54000" />
       <workItem from="1645210382736" duration="268000" />
-      <workItem from="1645451467096" duration="6379000" />
+      <workItem from="1645451467096" duration="6480000" />
+      <workItem from="1645632240140" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -289,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645459145609</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="print Consecutive Numbers">
+      <created>1645460707294</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645460707294</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,7 +320,8 @@
     <MESSAGE value="Swap two numbers" />
     <MESSAGE value="dIVISIBLE BY 3, 5, 15" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="print Consecutive Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="print Consecutive Numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

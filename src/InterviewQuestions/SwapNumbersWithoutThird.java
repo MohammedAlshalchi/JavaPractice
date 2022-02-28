@@ -21,7 +21,7 @@ public class SwapNumbersWithoutThird {
         num2 = num1/num2;  // num2=10
         num1 = num1/num2;  // num1=5
 
-        System.out.println("First number "+num1+" Second number 10" +
+        System.out.println("First number "+num1+" Second number " +
                 ""+num2);
 
 
