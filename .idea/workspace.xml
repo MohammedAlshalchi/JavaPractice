@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="Prime number">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="all done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ArmstrongNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ArmstrongNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArmstrongNumbers">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArmstrongNumbers" />
       <module name="JavaPractice" />
@@ -133,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.ArmstrongNumbers" />
         <item itemvalue="Application.ReverseNegativeNumber" />
-        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.SwapNumbersWithoutThird" />
         <item itemvalue="Application.printConsecutiveNumbers" />
       </list>
@@ -198,7 +194,8 @@
       <workItem from="1646180793809" duration="1259000" />
       <workItem from="1646182531229" duration="53000" />
       <workItem from="1646182598357" duration="426000" />
-      <workItem from="1646183223953" duration="8712000" />
+      <workItem from="1646183223953" duration="9513000" />
+      <workItem from="1646234014321" duration="1820000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -333,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646180983338</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="all done">
+      <created>1646192421910</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1646192421910</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +369,8 @@
     <MESSAGE value="print Consecutive Numbers" />
     <MESSAGE value="commit1 test1" />
     <MESSAGE value="Prime number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prime number" />
+    <MESSAGE value="all done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
