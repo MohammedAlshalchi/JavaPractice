@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="print Consecutive Numbers">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit1 test1">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dy51_Map/DesertForDinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InerviewQA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/SwapNumbersWithoutThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SwapNumbersWithoutThird.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/day28_ArrayList/ScoresGrades.java" root0="SKIP_INSPECTION" />
@@ -42,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProgramingLab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaCodingTasksGR29" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +66,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapNumbersWithoutThird">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="DivisibleByFiveThreeFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DivisibleByFiveThreeFifteen" />
       <module name="JavaPractice" />
@@ -75,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16_StringPractice.PositiveNegative" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.PrimeNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_StringPractice.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.SwapNumbersWithoutThird" />
         <item itemvalue="Application.printConsecutiveNumbers" />
         <item itemvalue="Application.DivisibleByFiveThreeFifteen" />
         <item itemvalue="Application.Numbers1ToN" />
-        <item itemvalue="Application.PositiveNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +183,13 @@
       <workItem from="1645210382736" duration="268000" />
       <workItem from="1645451467096" duration="6480000" />
       <workItem from="1645632240140" duration="115000" />
+      <workItem from="1646057451857" duration="248000" />
+      <workItem from="1646058325424" duration="1234000" />
+      <workItem from="1646095264443" duration="6000" />
+      <workItem from="1646160169478" duration="241000" />
+      <workItem from="1646169653953" duration="16000" />
+      <workItem from="1646177820044" duration="190000" />
+      <workItem from="1646178056229" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -291,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645460707294</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit1 test1">
+      <created>1646057483614</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1646057483614</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +347,8 @@
     <MESSAGE value="dIVISIBLE BY 3, 5, 15" />
     <MESSAGE value="new" />
     <MESSAGE value="print Consecutive Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="print Consecutive Numbers" />
+    <MESSAGE value="commit1 test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1 test1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
