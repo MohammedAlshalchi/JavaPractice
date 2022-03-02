@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="commit1 test1">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dy51_Map/DesertForDinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="Prime number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ArmstrongNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ArmstrongNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArmstrongNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +65,13 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="DivisibleByFiveThreeFifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DivisibleByFiveThreeFifteen" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Numbers1ToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17_ForLoop.Numbers1ToN" />
+  <component name="RunManager" selected="Application.ArmstrongNumbers">
+    <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArmstrongNumbers" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_ForLoop.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,6 +81,19 @@
     </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.PrimeNumber" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ReverseNegativeNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumbers" />
+        <item itemvalue="Application.ReverseNegativeNumber" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.SwapNumbersWithoutThird" />
         <item itemvalue="Application.printConsecutiveNumbers" />
-        <item itemvalue="Application.DivisibleByFiveThreeFifteen" />
-        <item itemvalue="Application.Numbers1ToN" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +195,10 @@
       <workItem from="1646169653953" duration="16000" />
       <workItem from="1646177820044" duration="190000" />
       <workItem from="1646178056229" duration="2630000" />
+      <workItem from="1646180793809" duration="1259000" />
+      <workItem from="1646182531229" duration="53000" />
+      <workItem from="1646182598357" duration="426000" />
+      <workItem from="1646183223953" duration="8712000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -317,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646057483614</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Prime number">
+      <created>1646180983338</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1646180983338</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +364,8 @@
     <MESSAGE value="new" />
     <MESSAGE value="print Consecutive Numbers" />
     <MESSAGE value="commit1 test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1 test1" />
+    <MESSAGE value="Prime number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
