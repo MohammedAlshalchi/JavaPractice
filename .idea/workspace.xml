@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="all done">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="all done1">
+      <change afterPath="$PROJECT_DIR$/src/dy51_Map/Dinner2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy51_Map/DesertForDinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/Dinner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +66,39 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+  <component name="RunManager" selected="Application.Dinner1">
     <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArmstrongNumbers" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dinner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy51_Map.Dinner1" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dy51_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dinner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy51_Map.Dinner2" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dy51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,38 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNegativeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ReverseNegativeNumber" />
+    <configuration name="SpicyLunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy51_Map.SpicyLunch" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapNumbersWithoutThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SwapNumbersWithoutThird" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="printConsecutiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.printConsecutiveNumbers" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="dy51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dinner1" />
+        <item itemvalue="Application.Dinner2" />
+        <item itemvalue="Application.SpicyLunch" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.ArmstrongNumbers" />
-        <item itemvalue="Application.ReverseNegativeNumber" />
-        <item itemvalue="Application.SwapNumbersWithoutThird" />
-        <item itemvalue="Application.printConsecutiveNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +200,13 @@
       <workItem from="1646182531229" duration="53000" />
       <workItem from="1646182598357" duration="426000" />
       <workItem from="1646183223953" duration="9513000" />
-      <workItem from="1646234014321" duration="1820000" />
+      <workItem from="1646234014321" duration="2275000" />
+      <workItem from="1646239437162" duration="79000" />
+      <workItem from="1646240068226" duration="244000" />
+      <workItem from="1646240359130" duration="2045000" />
+      <workItem from="1646248549080" duration="11000" />
+      <workItem from="1646261170966" duration="4307000" />
+      <workItem from="1646313415273" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -337,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646192421910</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="all done1">
+      <created>1646236741180</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1646236741180</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +388,8 @@
     <MESSAGE value="commit1 test1" />
     <MESSAGE value="Prime number" />
     <MESSAGE value="all done" />
-    <option name="LAST_COMMIT_MESSAGE" value="all done" />
+    <MESSAGE value="all done1" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

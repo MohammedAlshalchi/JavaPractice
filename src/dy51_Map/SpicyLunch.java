@@ -1,5 +1,7 @@
 package dy51_Map;
 
+
+
 public class SpicyLunch {
     /*
     1. Given the following map that contains the employee name and thier salary:
@@ -21,14 +23,63 @@ public class SpicyLunch {
     1.4 display the names of the employees who are making less than 118k?
     1.5 increase the salary of each employee by 10K
 
-
-
-2. Wirte a program that can return the freuqency of characters
-        Not: MUST use map
-
-        Ex: str = "bbcccaaaaa"
-
-        output:
-            {b=2, c=3, a=5}
      */
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
