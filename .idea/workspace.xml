@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="all done1">
-      <change afterPath="$PROJECT_DIR$/src/dy51_Map/Dinner2.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="HW work for MAp">
+      <change afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequencyArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/InterviewQuestions/ReverseNegativeNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReverseNegativeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dy51_Map/DesertForDinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/Dinner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +65,13 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dinner1">
-    <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArmstrongNumbers" />
+  <component name="RunManager" selected="Application.SpicyLunch">
+    <configuration name="BeforeLunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy51_Map.BeforeLunch" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="dy51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpicyLunch" />
+        <item itemvalue="Application.BeforeLunch" />
         <item itemvalue="Application.Dinner1" />
         <item itemvalue="Application.Dinner2" />
-        <item itemvalue="Application.SpicyLunch" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.ArmstrongNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +206,8 @@
       <workItem from="1646248549080" duration="11000" />
       <workItem from="1646261170966" duration="4307000" />
       <workItem from="1646313415273" duration="6164000" />
+      <workItem from="1646349208938" duration="285000" />
+      <workItem from="1646349644154" duration="6258000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -355,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646236741180</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="HW work for MAp">
+      <created>1646349278496</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1646349278496</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +397,8 @@
     <MESSAGE value="Prime number" />
     <MESSAGE value="all done" />
     <MESSAGE value="all done1" />
-    <option name="LAST_COMMIT_MESSAGE" value="all done1" />
+    <MESSAGE value="HW work for MAp" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW work for MAp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
