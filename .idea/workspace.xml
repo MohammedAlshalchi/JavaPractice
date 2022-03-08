@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="HW work for MAp">
-      <change afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequencyArrayList.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="HW work for MAp addition">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/SameLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/SpicyLunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/BeforeLunch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dy51_Map/SpicyLunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/BeforeLunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/dy51_Map/BeforeLunch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequencyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_ExtraPracticeMap/HighestFrequencyArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,48 +66,9 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpicyLunch">
-    <configuration name="BeforeLunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy51_Map.BeforeLunch" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dy51_Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dinner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy51_Map.Dinner1" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dy51_Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dinner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy51_Map.Dinner2" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dy51_Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.PrimeNumber" />
+  <component name="RunManager" selected="Application.RemoveDuplicates">
+    <configuration name="Fin_Ra_FinRa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Fin_Ra_FinRa" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -118,12 +80,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpicyLunch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dy51_Map.SpicyLunch" />
+    <configuration name="FrequencyOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FrequencyOfCharacters" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dy51_Map.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HighestFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_ExtraPracticeMap.HighestFrequency" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day52_ExtraPracticeMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.RemoveDuplicates" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SameLetters" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpicyLunch" />
-        <item itemvalue="Application.BeforeLunch" />
-        <item itemvalue="Application.Dinner1" />
-        <item itemvalue="Application.Dinner2" />
-        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.RemoveDuplicates" />
+        <item itemvalue="Application.SameLetters" />
+        <item itemvalue="Application.FrequencyOfCharacters" />
+        <item itemvalue="Application.Fin_Ra_FinRa" />
+        <item itemvalue="Application.HighestFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,10 @@
       <workItem from="1646261170966" duration="4307000" />
       <workItem from="1646313415273" duration="6164000" />
       <workItem from="1646349208938" duration="285000" />
-      <workItem from="1646349644154" duration="6258000" />
+      <workItem from="1646349644154" duration="8979000" />
+      <workItem from="1646758295513" duration="186000" />
+      <workItem from="1646759132990" duration="604000" />
+      <workItem from="1646764423063" duration="1492000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -363,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646349278496</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="HW work for MAp addition">
+      <created>1646356389463</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1646356389463</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +409,8 @@
     <MESSAGE value="all done" />
     <MESSAGE value="all done1" />
     <MESSAGE value="HW work for MAp" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW work for MAp" />
+    <MESSAGE value="HW work for MAp addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW work for MAp addition" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
