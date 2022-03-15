@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="interview questions">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringFindTheUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringSortLettersAndNumbersFromAlphanumericString.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="5th interview question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringFindTheUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringFindTheUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringSortLettersAndNumbersFromAlphanumericString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringSortLettersAndNumbersFromAlphanumericString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +63,7 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringFindTheUnique">
-    <configuration name="Fin_Ra_FinRa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Fin_Ra_FinRa" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringSortLettersAndNumbersFromAlphanumericString">
     <configuration name="FrequencyOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FrequencyOfCharacters" />
       <module name="JavaPractice" />
@@ -103,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SameLetters" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringFindTheUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.StringFindTheUnique" />
       <module name="JavaPractice" />
@@ -129,13 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.StringReverse" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSortLettersAndNumbersFromAlphanumericString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.StringSortLettersAndNumbersFromAlphanumericString" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSortLettersAndNumbersFromAlphanumericString" />
         <item itemvalue="Application.StringFindTheUnique" />
+        <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.FrequencyOfCharacters" />
         <item itemvalue="Application.RemoveDuplicates" />
-        <item itemvalue="Application.SameLetters" />
-        <item itemvalue="Application.Fin_Ra_FinRa" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,7 @@
       <workItem from="1646839701484" duration="106000" />
       <workItem from="1646841099931" duration="818000" />
       <workItem from="1646843590027" duration="9000" />
-      <workItem from="1647384264340" duration="1736000" />
+      <workItem from="1647384264340" duration="4233000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646766182409</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="5th interview question">
+      <created>1647386190359</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1647386190359</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +426,8 @@
     <MESSAGE value="HW work for MAp" />
     <MESSAGE value="HW work for MAp addition" />
     <MESSAGE value="interview questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="interview questions" />
+    <MESSAGE value="5th interview question" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th interview question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

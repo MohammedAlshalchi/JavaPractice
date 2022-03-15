@@ -12,7 +12,7 @@ Ex: unique("AAABBBCCCDEF") ==> "DEF"
         String str = "AAABBBCCCDEF";
 
       //String uniqueCharactor   = uniqueCharactors(str);
-        System.out.println(uniqueCharactors(str));
+        System.out.println("The unique charactors are: "+uniqueCharactors(str));
     }
 
 
