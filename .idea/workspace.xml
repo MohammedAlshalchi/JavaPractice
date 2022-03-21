@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="5th interview question">
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="5th interview question 2 and 3">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayFindMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/PasswordValidationTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/SumOfDigitsInA_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringFindTheUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringFindTheUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/StringSortLettersAndNumbersFromAlphanumericString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringSortLettersAndNumbersFromAlphanumericString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +212,8 @@
       <workItem from="1646839701484" duration="106000" />
       <workItem from="1646841099931" duration="818000" />
       <workItem from="1646843590027" duration="9000" />
-      <workItem from="1647384264340" duration="4233000" />
+      <workItem from="1647384264340" duration="4999000" />
+      <workItem from="1647878667623" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -389,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647386190359</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="5th interview question 2 and 3">
+      <created>1647388751777</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1647388751777</updated>
+    </task>
+    <task id="LOCAL-00027" summary="5th interview question 2 and 3">
+      <created>1647388761412</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647388761412</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +442,8 @@
     <MESSAGE value="HW work for MAp addition" />
     <MESSAGE value="interview questions" />
     <MESSAGE value="5th interview question" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th interview question" />
+    <MESSAGE value="5th interview question 2 and 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th interview question 2 and 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
