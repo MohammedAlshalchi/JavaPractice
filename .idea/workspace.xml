@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="5th interview question 2 and 3">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayFindMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/PasswordValidationTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/SumOfDigitsInA_String.java" afterDir="false" />
+    <list default="true" id="7d5e9950-1e86-4d9c-97f6-1521f7e15de8" name="Changes" comment="6th interview question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ArrayFindMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayFindMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/PasswordValidationTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/PasswordValidationTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/SumOfDigitsInA_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SumOfDigitsInA_String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +63,9 @@
       <recent name="day09" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSortLettersAndNumbersFromAlphanumericString">
-    <configuration name="FrequencyOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FrequencyOfCharacters" />
+  <component name="RunManager" selected="Application.SumOfDigitsInA_String">
+    <configuration name="ArrayFindMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArrayFindMaximum" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.RemoveDuplicates" />
+    <configuration name="PasswordValidationTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.PasswordValidationTask" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -103,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.StringReverse" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringSortLettersAndNumbersFromAlphanumericString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.StringSortLettersAndNumbersFromAlphanumericString" />
       <module name="JavaPractice" />
@@ -129,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDigitsInA_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SumOfDigitsInA_String" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDigitsInA_String" />
+        <item itemvalue="Application.ArrayFindMaximum" />
+        <item itemvalue="Application.PasswordValidationTask" />
         <item itemvalue="Application.StringSortLettersAndNumbersFromAlphanumericString" />
         <item itemvalue="Application.StringFindTheUnique" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.FrequencyOfCharacters" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,10 @@
       <workItem from="1646841099931" duration="818000" />
       <workItem from="1646843590027" duration="9000" />
       <workItem from="1647384264340" duration="4999000" />
-      <workItem from="1647878667623" duration="498000" />
+      <workItem from="1647878667623" duration="530000" />
+      <workItem from="1648051032755" duration="5133000" />
+      <workItem from="1648057705945" duration="649000" />
+      <workItem from="1648173773060" duration="1443000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <created>1642473887858</created>
@@ -404,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647388761412</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="6th interview question">
+      <created>1647879187898</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647879187898</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +453,8 @@
     <MESSAGE value="interview questions" />
     <MESSAGE value="5th interview question" />
     <MESSAGE value="5th interview question 2 and 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th interview question 2 and 3" />
+    <MESSAGE value="6th interview question" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th interview question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
